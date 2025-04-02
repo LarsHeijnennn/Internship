@@ -1,0 +1,5 @@
+Embedding;Model;MSE;MAE;R2
+bert-base-uncased;Random Forest;61.5998;5.9543;0.5776
+bert-base-uncased;Linear Regression;26.9970;3.9576;0.8149
+all-MiniLM-L6-v2;Random Forest;25.9679;3.7427;0.8219
+all-MiniLM-L6-v2;Linear Regression;63.4912;5.7951;0.5646
